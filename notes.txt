@@ -1,0 +1,9 @@
+figure out what to make
+
+amazon dev help:
+
+https://developer.amazon.com/alexa-skills-kit/start#Quick-Start%20Tutorials
+
+https://developer.amazon.com/
+
+https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion
